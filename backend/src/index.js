@@ -22,7 +22,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://frontend-nu-bice-50.vercel.app",
+      "https://frontend-lyart-omega-16.vercel.app/",
     ],
     credentials: true,
   })
